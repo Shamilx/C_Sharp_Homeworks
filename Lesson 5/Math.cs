@@ -10,16 +10,13 @@ namespace Hey
 
     class Romb : Figure
     {
-        double[] Terefler = new double[4];
+        double Teref;
         int p, q; // diagonals
 
         
-        public Romb(double a, double b, double c, double d) 
+        public Romb(double a) 
         {
-            Terefler[0] = a;
-            Terefler[1] = b;
-            Terefler[2] = c;
-            Terefler[3] = d;
+            Teref = a;
         }
 
 
@@ -35,13 +32,7 @@ namespace Hey
 
         public override double Perimetr()
         {
-            double sum = 0;
-            foreach (var item in Terefler)
-            {
-                sum = sum + item;
-            }
-
-            return sum;
+            return Teref * 4;
         }
 
         public void setDiagonal1(int p1)
