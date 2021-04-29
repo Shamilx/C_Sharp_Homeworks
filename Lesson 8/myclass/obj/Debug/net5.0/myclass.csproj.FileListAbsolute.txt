@@ -1,0 +1,12 @@
+C:\Users\User\Desktop\C_Sharp\TankGame\myclass\obj\Debug\net5.0\myclass.csprojAssemblyReference.cache
+C:\Users\User\Desktop\C_Sharp\TankGame\myclass\obj\Debug\net5.0\myclass.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\User\Desktop\C_Sharp\TankGame\myclass\obj\Debug\net5.0\myclass.AssemblyInfoInputs.cache
+C:\Users\User\Desktop\C_Sharp\TankGame\myclass\obj\Debug\net5.0\myclass.AssemblyInfo.cs
+C:\Users\User\Desktop\C_Sharp\TankGame\myclass\obj\Debug\net5.0\myclass.csproj.CoreCompileInputs.cache
+C:\Users\User\Desktop\C_Sharp\TankGame\myclass\bin\Debug\net5.0\myclass.deps.json
+C:\Users\User\Desktop\C_Sharp\TankGame\myclass\bin\Debug\net5.0\myclass.dll
+C:\Users\User\Desktop\C_Sharp\TankGame\myclass\bin\Debug\net5.0\ref\myclass.dll
+C:\Users\User\Desktop\C_Sharp\TankGame\myclass\bin\Debug\net5.0\myclass.pdb
+C:\Users\User\Desktop\C_Sharp\TankGame\myclass\obj\Debug\net5.0\myclass.dll
+C:\Users\User\Desktop\C_Sharp\TankGame\myclass\obj\Debug\net5.0\ref\myclass.dll
+C:\Users\User\Desktop\C_Sharp\TankGame\myclass\obj\Debug\net5.0\myclass.pdb
