@@ -27,7 +27,7 @@ namespace WOT
             int my_second = 0;
 
             if (first._live == false || second._live == false)
-                new Exceptions.TankAlreadyDestroyed();
+                throw new Exceptions.TankAlreadyDestroyed();
 
             if (first._ammunition > second._ammunition)
                 my_first++;
