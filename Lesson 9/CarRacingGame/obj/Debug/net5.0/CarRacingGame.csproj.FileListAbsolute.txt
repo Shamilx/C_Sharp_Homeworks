@@ -1,0 +1,16 @@
+c:\Users\User\Desktop\C# projects\CarRacingGame\bin\Debug\net5.0\CarRacingGame.exe
+c:\Users\User\Desktop\C# projects\CarRacingGame\bin\Debug\net5.0\CarRacingGame.deps.json
+c:\Users\User\Desktop\C# projects\CarRacingGame\bin\Debug\net5.0\CarRacingGame.runtimeconfig.json
+c:\Users\User\Desktop\C# projects\CarRacingGame\bin\Debug\net5.0\CarRacingGame.runtimeconfig.dev.json
+c:\Users\User\Desktop\C# projects\CarRacingGame\bin\Debug\net5.0\CarRacingGame.dll
+c:\Users\User\Desktop\C# projects\CarRacingGame\bin\Debug\net5.0\ref\CarRacingGame.dll
+c:\Users\User\Desktop\C# projects\CarRacingGame\bin\Debug\net5.0\CarRacingGame.pdb
+c:\Users\User\Desktop\C# projects\CarRacingGame\obj\Debug\net5.0\CarRacingGame.csprojAssemblyReference.cache
+c:\Users\User\Desktop\C# projects\CarRacingGame\obj\Debug\net5.0\CarRacingGame.GeneratedMSBuildEditorConfig.editorconfig
+c:\Users\User\Desktop\C# projects\CarRacingGame\obj\Debug\net5.0\CarRacingGame.AssemblyInfoInputs.cache
+c:\Users\User\Desktop\C# projects\CarRacingGame\obj\Debug\net5.0\CarRacingGame.AssemblyInfo.cs
+c:\Users\User\Desktop\C# projects\CarRacingGame\obj\Debug\net5.0\CarRacingGame.csproj.CoreCompileInputs.cache
+c:\Users\User\Desktop\C# projects\CarRacingGame\obj\Debug\net5.0\CarRacingGame.dll
+c:\Users\User\Desktop\C# projects\CarRacingGame\obj\Debug\net5.0\ref\CarRacingGame.dll
+c:\Users\User\Desktop\C# projects\CarRacingGame\obj\Debug\net5.0\CarRacingGame.pdb
+c:\Users\User\Desktop\C# projects\CarRacingGame\obj\Debug\net5.0\CarRacingGame.genruntimeconfig.cache
