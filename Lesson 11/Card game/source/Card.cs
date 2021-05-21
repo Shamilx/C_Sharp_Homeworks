@@ -55,7 +55,8 @@ namespace source
         public string GetNameOfCard() 
         {
             if(_nameOfCard == null)
-                throw new UserDefExcs.NameIsNullException("This card's name field is null!");
+                return null;
+                // throw new UserDefExcs.NameIsNullException("This card's name field is null!");
 
             return _nameOfCard;
         }
@@ -63,7 +64,8 @@ namespace source
         public string GetTypeOfCard()
         {
             if(_typeOfCard == null)
-                throw new UserDefExcs.TypeIsNullException("This card's type field is null!");
+                return null;
+                // throw new UserDefExcs.TypeIsNullException("This card's type field is null!");
             
             return _typeOfCard;
         }   
@@ -71,7 +73,8 @@ namespace source
         public int GetNumberOfCard()
         {
             if(_numberOfCard == null)
-                throw new NumberIsNullException("This card's number field is null!");
+                return 0;
+               // throw new NumberIsNullException("This card's number field is null!");
 
             return _numberOfCard ?? 0;
         }
