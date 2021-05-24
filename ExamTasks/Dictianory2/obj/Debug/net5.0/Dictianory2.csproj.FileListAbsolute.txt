@@ -1,0 +1,16 @@
+C:\Users\User\Desktop\C# projects\Dictianory2\bin\Debug\net5.0\Dictianory2.exe
+C:\Users\User\Desktop\C# projects\Dictianory2\bin\Debug\net5.0\Dictianory2.deps.json
+C:\Users\User\Desktop\C# projects\Dictianory2\bin\Debug\net5.0\Dictianory2.runtimeconfig.json
+C:\Users\User\Desktop\C# projects\Dictianory2\bin\Debug\net5.0\Dictianory2.runtimeconfig.dev.json
+C:\Users\User\Desktop\C# projects\Dictianory2\bin\Debug\net5.0\Dictianory2.dll
+C:\Users\User\Desktop\C# projects\Dictianory2\bin\Debug\net5.0\ref\Dictianory2.dll
+C:\Users\User\Desktop\C# projects\Dictianory2\bin\Debug\net5.0\Dictianory2.pdb
+C:\Users\User\Desktop\C# projects\Dictianory2\obj\Debug\net5.0\Dictianory2.csprojAssemblyReference.cache
+C:\Users\User\Desktop\C# projects\Dictianory2\obj\Debug\net5.0\Dictianory2.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\User\Desktop\C# projects\Dictianory2\obj\Debug\net5.0\Dictianory2.AssemblyInfoInputs.cache
+C:\Users\User\Desktop\C# projects\Dictianory2\obj\Debug\net5.0\Dictianory2.AssemblyInfo.cs
+C:\Users\User\Desktop\C# projects\Dictianory2\obj\Debug\net5.0\Dictianory2.csproj.CoreCompileInputs.cache
+C:\Users\User\Desktop\C# projects\Dictianory2\obj\Debug\net5.0\Dictianory2.dll
+C:\Users\User\Desktop\C# projects\Dictianory2\obj\Debug\net5.0\ref\Dictianory2.dll
+C:\Users\User\Desktop\C# projects\Dictianory2\obj\Debug\net5.0\Dictianory2.pdb
+C:\Users\User\Desktop\C# projects\Dictianory2\obj\Debug\net5.0\Dictianory2.genruntimeconfig.cache
