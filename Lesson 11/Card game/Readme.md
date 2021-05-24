@@ -1,11 +1,15 @@
 First of all i need to say that i dont know how to play a card game so i designed my game to be different from original card game,Logic : 
 
-   4       3         2         1
+
 spades > hearts > diamonds > clubs
 
+spades : 4
+hearts : 3
+diamonds : 2
+clubs : 1
+
 And 
- 4            3  
-spades,5 vs hearts,2
+spades 5 vs hearts 2
 
 4 + 5 > 3 + 2
 
